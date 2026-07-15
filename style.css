@@ -1,0 +1,17 @@
+.background {
+    background-color:rgb(218, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 100px;
+    margin: 100px;
+    color: rgb(31, 31, 31);
+    border-radius: 20px;
+}
+.align{
+    text-align: center;
+}
+.ul{
+    padding-left: 500px;
+}
+.ul2{
+ padding-left: 390px;
+}
