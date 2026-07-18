@@ -1,11 +1,12 @@
 .background {
-    background-color:rgb(218, 255, 255);
-    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(160, 217, 250);
+    font-family: Arial, sans-serif;
     padding: 100px;
     margin: 100px;
-    color: rgb(31, 31, 31);
+    color: rgb(0, 0, 0);
     border-radius: 20px;
 }
+
 .align{
     text-align: center;
 }
